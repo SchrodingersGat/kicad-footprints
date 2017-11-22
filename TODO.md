@@ -8,7 +8,7 @@
 - [x] Capacitors_SMD
 - [x] Capacitors_Tantalum_SMD
 - [x] Capacitors_THT
-- [ ] Connectors_Card
+- [x] Connectors_Card
 - [x] Connectors_DSub
 - [ ] Connectors_Harwin
 - [ ] Connectors_HDMI
@@ -46,12 +46,12 @@
 - [ ] Connectors_Terminal_Blocks
 - [ ] Connectors_TestPoints
 - [ ] Connectors_WAGO
-- [ ] Connectors_USB
+- [x] Connectors_USB
 - [ ] Connectors
 - [ ] Converters_DCDC_ACDC
 - [x] Crystals
 - [x] Diodes_SMD
-- [ ] Diodes_THT
+- [x] Diodes_THT
 - [x] Displays_7-Segment
 - [x] Displays
 - [x] Enclosures
@@ -73,7 +73,7 @@
 - [x] Housings_SON
 - [x] Housings_SSOP
 - [x] Inductors_SMD
-- [ ] Inductors_THT
+- [x] Inductors_THT
 - [x] LEDs
 - [ ] Measurement_Scales
 - [ ] Microwave
