@@ -8,11 +8,12 @@
 - [x] Capacitors_SMD
 - [x] Capacitors_Tantalum_SMD
 - [x] Capacitors_THT
+- [X] Connectors_Amphenol
 - [x] Connectors_Card
 - [x] Connectors_DSub
 - [x] Connectors_Harwin
 - [x] Connectors_HDMI
-- [ ] Connectors_Hirose
+- [X] Connectors_Hirose
 - [x] Connectors_IDC
 - [ ] Connectors_IEC_DIN
 - [ ] Connectors_JAE
@@ -111,7 +112,7 @@
 - [ ] Microwave
 - [ ] Modules
 - [x] Mounting_Holes
-- [ ] Opto-Devices
+- [x] Opto-Devices
 - [ ] Oscillators
 - [x] Package_DirectFET
 - [x] Pin_Headers
