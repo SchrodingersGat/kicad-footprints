@@ -1,6 +1,6 @@
 
 # Library Checklist
-
+- [x] Batteries
 - [x] Buttons_Switches_Keyboard
 - [x] Buttons_Switches_SMD
 - [x] Buttons_Switches_THT
@@ -8,46 +8,62 @@
 - [x] Capacitors_SMD
 - [x] Capacitors_Tantalum_SMD
 - [x] Capacitors_THT
+- [x] Connectors_Amphenol
 - [x] Connectors_Card
 - [x] Connectors_DSub
 - [x] Connectors_Harwin
 - [x] Connectors_HDMI
-- [ ] Connectors_Hirose
+- [x] Connectors_Hirose
 - [x] Connectors_IDC
 - [ ] Connectors_IEC_DIN
 - [ ] Connectors_JAE
 - [x] Connectors_JST
 - [ ] Connectors_Mini-Universal
-- [ ] Connectors_Molex
-  - [x] CLIK-mate
-  - [ ] FFC
-  - [ ] KK
-  - [ ] MegaFit
-  - [ ] MicroFit 3.0
-  - [ ] MicroLatch
-  - [ ] Microfit3 (duplicate of 3.0?)
-  - [ ] MiniFit-JR
-  - [ ] MiniFit-SR
-  - [ ] NanoFit
-  - [x] Panelmate
-  - [x] Pico-EZMate
-  - [x] PicoBlade
-  - [x] PicoClasp
-  - [ ] PicoFlex
-  - [x] PicoLock
-  - [ ] SPOX
-  - [ ] Sabre
-  - [ ] SlimStack
+- [x] Connectors_Molex
 - [x] Connectors_Multicomp
 - [x] Connectors_Phoenix
 - [ ] Connectors_Samtec
+  - [x] MECF
+  - [ ] LSHM
 - [ ] Connectors_TE-Connectivity
-- [ ] Connectors_Tab (Tab / Blade connectors)
-- [ ] Connectors_Terminal_Blocks
+- [x] Connectors_Tab (Tab / Blade connectors) old repo is empty -> nothing to do
+- [x] Connectors_Terminal_Blocks
 - [x] Connectors_TestPoints
-- [ ] Connectors_WAGO
+- [x] Connectors_WAGO
 - [x] Connectors_USB
 - [ ] Connectors
+  - [ ] 3M
+  - [x] Audio Jacks
+  - [x] Banana Jacks
+  - [x] Barrel Jacks
+  - [x] Batteries (CR1220/CR2032)
+  - [ ] C64/C96
+  - [ ] CNT3BRCMS
+  - [x] CUI_PD-30
+  - [x] Coaxials (BNC, SMA, SMB)
+  - [ ] FMC
+  - [x] Fan-Pinheaders
+  - [x] GS (SolderJumper)
+  - [ ] GTK2400
+  - [ ] GoldTek
+  - [ ] Grove
+  - [ ] HE10
+  - [ ] IQRF
+  - [ ] JWT
+  - [ ] NMJ6
+  - [x] PCI/ISA/... EdgeMounted connectors
+  - [x] Pins
+  - [ ] QMS
+  - [x] RJ11/45
+  - [x] SAS
+  - [x] SATA
+  - [x] SD/microSD-card receptables
+  - [ ] SOC
+  - [ ] TE_Futurebus+
+  - [ ] Tag-Connect
+  - [x] USBs
+  - [ ] Wafer
+  - [ ] XLR3/5
 - [ ] Converters_DCDC_ACDC
 - [x] Crystals
 - [x] Diodes_SMD
@@ -57,9 +73,9 @@
 - [x] Enclosures
 - [x] EuroBoard_Outline
 - [x] Fiducials
-- [ ] Fuse_Holders_and_Fuses
+- [x] Fuse_Holders_and_Fuses
 - [x] Hall-Effect_Transducers_LEM
-- [ ] Heatsinks
+- [x] Heatsinks
 - [x] Housings_BGA
 - [x] Housings_CSP
 - [x] Housings_DFN_QFN
@@ -79,7 +95,7 @@
 - [ ] Microwave
 - [ ] Modules
 - [x] Mounting_Holes
-- [ ] Opto-Devices
+- [x] Opto-Devices
 - [ ] Oscillators
 - [x] Package_DirectFET
 - [x] Pin_Headers
