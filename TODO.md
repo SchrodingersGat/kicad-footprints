@@ -23,11 +23,13 @@
 - [x] Connectors_Multicomp
 - [x] Connectors_Phoenix
 - [ ] Connectors_Samtec
+  - [x] MECF
+  - [ ] LSHM
 - [ ] Connectors_TE-Connectivity
 - [x] Connectors_Tab (Tab / Blade connectors) old repo is empty -> nothing to do
-- [ ] Connectors_Terminal_Blocks
+- [x] Connectors_Terminal_Blocks
 - [x] Connectors_TestPoints
-- [ ] Connectors_WAGO
+- [x] Connectors_WAGO
 - [x] Connectors_USB
 - [ ] Connectors
   - [ ] 3M
@@ -73,7 +75,7 @@
 - [x] Fiducials
 - [x] Fuse_Holders_and_Fuses
 - [x] Hall-Effect_Transducers_LEM
-- [ ] Heatsinks
+- [x] Heatsinks
 - [x] Housings_BGA
 - [x] Housings_CSP
 - [x] Housings_DFN_QFN
