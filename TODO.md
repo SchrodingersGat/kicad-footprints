@@ -22,9 +22,7 @@
 - [x] Connectors_Molex
 - [x] Connectors_Multicomp
 - [x] Connectors_Phoenix
-- [ ] Connectors_Samtec
-  - [x] MECF
-  - [ ] LSHM
+- [x] Connectors_Samtec
 - [x] Connectors_TE-Connectivity
 - [x] Connectors_Tab (Tab / Blade connectors) old repo is empty -> nothing to do
 - [x] Connectors_Terminal_Blocks
@@ -92,7 +90,7 @@
 - [x] Inductors_THT
 - [x] LEDs
 - [x] Measurement_Scales
-- [ ] Microwave
+- [ ] <s>Microwave</s> very bad footprints, will not be moved to the new repo
 - [x] Modules
 - [x] Mounting_Holes
 - [x] Opto-Devices
@@ -124,4 +122,4 @@
 - [x] Transformers_THT
 - [x] Valves
 - [x] Varistors
-- [ ] Wire_Pads
+- [x] Wire_Pads
