@@ -22,9 +22,7 @@
 - [x] Connectors_Molex
 - [x] Connectors_Multicomp
 - [x] Connectors_Phoenix
-- [ ] Connectors_Samtec
-  - [x] MECF
-  - [ ] LSHM
+- [x] Connectors_Samtec
 - [x] Connectors_TE-Connectivity
 - [x] Connectors_Tab (Tab / Blade connectors) old repo is empty -> nothing to do
 - [x] Connectors_Terminal_Blocks
@@ -37,18 +35,18 @@
   - [x] Banana Jacks
   - [x] Barrel Jacks
   - [x] Batteries (CR1220/CR2032)
-  - [ ] C64/C96
-  - [ ] CNT3BRCMS
+  - [ ] <s>C64/C96</s> duplicates of footprints found in Connectors_IEC_DIN
+  - [ ] <s>CNT3BRCMS</s> no corresponding part found, dropped
   - [x] CUI_PD-30
   - [x] Coaxials (BNC, SMA, SMB)
   - [ ] FMC
   - [x] Fan-Pinheaders
   - [x] GS (SolderJumper)
-  - [ ] GTK2400
-  - [ ] GoldTek
+  - [ ] <s>GTK2400</s> no part found
+  - [ ] <s>GoldTek</s> no part found
   - [ ] Grove
   - [ ] HE10
-  - [ ] IQRF
+  - [ ] <s>IQRF</s> no part found
   - [ ] JWT
   - [ ] NMJ6
   - [x] PCI/ISA/... EdgeMounted connectors
@@ -60,7 +58,7 @@
   - [x] SD/microSD-card receptables
   - [ ] SOC
   - [ ] TE_Futurebus+
-  - [ ] Tag-Connect
+  - [x] Tag-Connect
   - [x] USBs
   - [ ] Wafer
   - [ ] XLR3/5
@@ -92,7 +90,7 @@
 - [x] Inductors_THT
 - [x] LEDs
 - [x] Measurement_Scales
-- [ ] Microwave
+- [ ] <s>Microwave</s> very bad footprints, will not be moved to the new repo
 - [x] Modules
 - [x] Mounting_Holes
 - [x] Opto-Devices
@@ -124,4 +122,4 @@
 - [x] Transformers_THT
 - [x] Valves
 - [x] Varistors
-- [ ] Wire_Pads
+- [x] Wire_Pads
