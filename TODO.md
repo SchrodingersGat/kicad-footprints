@@ -15,10 +15,10 @@
 - [x] Connectors_HDMI
 - [x] Connectors_Hirose
 - [x] Connectors_IDC
-- [ ] Connectors_IEC_DIN
+- [ ] Connectors_IEC_DIN - waiting for script merge. See https://github.com/KiCad/Connectors_IEC_DIN.pretty/pull/7
 - [x] Connectors_JAE
 - [x] Connectors_JST
-- [ ] Connectors_Mini-Universal
+- [x] Connectors_Mini-Universal
 - [x] Connectors_Molex
 - [x] Connectors_Multicomp
 - [x] Connectors_Phoenix
@@ -30,7 +30,7 @@
 - [x] Connectors_WAGO
 - [x] Connectors_USB
 - [ ] Connectors
-  - [ ] 3M
+  - [x] 3M
   - [x] Audio Jacks
   - [x] Banana Jacks
   - [x] Barrel Jacks
@@ -39,29 +39,29 @@
   - [ ] <s>CNT3BRCMS</s> no corresponding part found, dropped
   - [x] CUI_PD-30
   - [x] Coaxials (BNC, SMA, SMB)
-  - [ ] FMC
+  - [x] FMC
   - [x] Fan-Pinheaders
   - [x] GS (SolderJumper)
   - [ ] <s>GTK2400</s> no part found
   - [ ] <s>GoldTek</s> no part found
-  - [ ] Grove
-  - [ ] HE10
+  - [x] Grove
+  - [x] HE10
   - [ ] <s>IQRF</s> no part found
-  - [ ] JWT
-  - [ ] NMJ6
+  - [x] JWT
+  - [x] NMJ6
   - [x] PCI/ISA/... EdgeMounted connectors
   - [x] Pins
-  - [ ] QMS
+  - [ ] QMS -> needs major rework and checking against datasheet.
   - [x] RJ11/45
   - [x] SAS
   - [x] SATA
   - [x] SD/microSD-card receptables
-  - [ ] SOC
+  - [ ] <s>SOC</s> no part found
   - [ ] TE_Futurebus+
   - [x] Tag-Connect
   - [x] USBs
-  - [ ] Wafer
-  - [ ] XLR3/5
+  - [ ] <s>Wafer</s> no part found
+  - [ ] <s>XLR3/5</s> no part found
 - [x] Converters_DCDC_ACDC
 - [x] Crystals
 - [x] Diodes_SMD
