@@ -1,4 +1,4 @@
-(module LGA-16_3x3mm_P0.5mm (layer F.Cu) (tedit 5AD5B76F)
+(module LGA-16_3x3mm_P0.5mm (layer F.Cu) (tedit 5C98390E)
   (descr http://www.memsic.com/userfiles/files/DataSheets/Magnetic-Sensors-Datasheets/MMC5883MA-RevC.pdf)
   (tags "lga land grid array")
   (attr smd)
